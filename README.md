@@ -2,6 +2,8 @@
 
 [ ![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selimm-demirerr/) 
 
+I'm a former civil engineer who found his groove in entrepreneurship, particularly in the exciting world of international toy trade. Along the way, I caught the coding bug and dove headfirst into software engineering. I just wrapped up an intensive Java Software Engineering program, honing my skills in backend development. Now, I'm pumped to merge my diverse experience with my newfound tech prowess as a Java Software Engineer.
+
 ## Skills 👨‍💻
 - **Programming Languages:** Java, SQL
 - **Web Development:** HTML, CSS, Thymeleaf, Spring Boot, Spring MVC, Spring Data, Spring JPA, Hibernate, Spring ORM, RESTful API, Swagger, OpenAPI3, Oauth2, Bootstrap
