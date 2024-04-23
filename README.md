@@ -1,5 +1,8 @@
 ### Hi there, I'm Selim Demirer 👋
 
+https://www.linkedin.com/in/selimm-demirerr/
+
+
 <!--
 **selimdemirer/selimdemirer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
