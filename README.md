@@ -1,6 +1,6 @@
 ### <h2>Hi there, I'm Selim Demirer 👋</h2>
 
-https://www.linkedin.com/in/selimm-demirerr/
+[ ![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selimm-demirerr/) 
 
 ## Skills 👨‍💻
 - **Programming Languages:** Java, SQL
