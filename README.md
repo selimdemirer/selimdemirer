@@ -1,4 +1,4 @@
-### Hi there, I'm Selim Demirer 👋
+### <h2>Hi there, I'm Selim Demirer 👋</h2>
 
 https://www.linkedin.com/in/selimm-demirerr/
 
